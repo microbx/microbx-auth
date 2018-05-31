@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "name": "microbx-auth",
+    "author": "cbdowell <cbdowell@gmail.com>",
+    "license": "MIT",
+    "workspaces": [
+        "packages/*"
+    ],
+    "devDependencies": {
+        "lerna": "^2.11.0"
+    }
+}

@@ -1,0 +1,7 @@
+node_modules
+.atomignore
+build
+dist
+yarn.lock
+.env*
+auth0-variables.js
